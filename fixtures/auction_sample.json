@@ -1,0 +1,52 @@
+[
+  {
+    "model": "auction.auctionitem",
+    "pk": 1023,
+    "fields": {
+      "name": "Vintage Watch",
+      "description": "A rare vintage watch from 1970s, keeps perfect time.",
+      "current_price": "150.00",
+      "ends_at": "2025-11-10T18:00:00Z"
+    }
+  },
+  {
+    "model": "auction.auctionitem",
+    "pk": 5876,
+    "fields": {
+      "name": "Antique Vase",
+      "description": "Beautiful hand-painted antique vase from China.",
+      "current_price": "200.00",
+      "ends_at": "2025-11-12T20:00:00Z"
+    }
+  },
+  {
+    "model": "auction.auctionitem",
+    "pk": 3491,
+    "fields": {
+      "name": "Gaming Laptop",
+      "description": "High-end gaming laptop, RTX 4080, 32GB RAM.",
+      "current_price": "1200.00",
+      "ends_at": "2025-11-11T15:00:00Z"
+    }
+  },
+  {
+    "model": "auction.auctionitem",
+    "pk": 7912,
+    "fields": {
+      "name": "Electric Guitar",
+      "description": "Fender Stratocaster, in mint condition.",
+      "current_price": "500.00",
+      "ends_at": "2025-11-14T19:00:00Z"
+    }
+  },
+  {
+    "model": "auction.auctionitem",
+    "pk": 2247,
+    "fields": {
+      "name": "Signed Football",
+      "description": "Official football signed by famous player.",
+      "current_price": "250.00",
+      "ends_at": "2025-11-13T21:00:00Z"
+    }
+  }
+]
